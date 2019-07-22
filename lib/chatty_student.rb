@@ -6,15 +6,15 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-  Pick me!
-  Pick me!
-  Pick me!
-  Pick me!
-  Pick me!
-  Pick me!
-  Pick me!
-  Pick me!
-  Pick me!
-  Pick me!
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
   end
 end
